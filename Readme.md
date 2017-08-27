@@ -4,3 +4,7 @@
 
 > 开始
 > 结束
+
+## 参考资料
+
+* [正则表达式 - 教程](http://www.runoob.com/regexp/regexp-tutorial.html)
